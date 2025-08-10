@@ -99,8 +99,11 @@ Response Example
 
 📱 Screenshots
 Home Page
+![Home Page Screenshot](./public/home.png)
 
 Movies Page
+![movies Page Screenshot](./public/movies.png)
+
 
 💡 Lessons Learned
 
