@@ -100,10 +100,10 @@ Response Example
 ## 📱 Screenshots
 
 ### Home Page
-![Home Page Screenshot](public/home.png)
+![Home Page Screenshot](/public/home.png)
 
 ### Movies Page
-![Movies Page Screenshot](public/movies.png)
+![Movies Page Screenshot](/public/movies.png)
 
 
 
