@@ -8,7 +8,7 @@ const MovieCard: React.FC<MovieProps> = ({ title, posterImage, releaseYear }) =>
             <Image 
                 className="h-[430px] w-full rounded-md hover:cursor-pointer" 
                 src={posterImage} 
-                width={100} 
+                width={200} 
                 height={100} 
                 alt={title} 
             />
